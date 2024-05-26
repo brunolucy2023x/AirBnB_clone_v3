@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# brunookoth44@gmail.com 
+# 2024
 """
 Handles all RESTful API actions for `State` objects
 """

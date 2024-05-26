@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# brunookoth44@gmail.com 
+# 2024
 """
 The RESTful api starts here. The api aids data access in the app.
 """

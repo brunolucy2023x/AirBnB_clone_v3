@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# brunookoth44@gmail.com 
+# 2024
 """ Flask routes for `Place` object related URI subpaths using the
 `app_views` Blueprint.
 """
