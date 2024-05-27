@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Handles all RESTful API actions for `place_amenity` relationship"""
+"""Handles all RESTful API actions for `place_amenity` relationship
+brunookoth44@gmail.com@copyright2024
+"""
 from flask import jsonify, abort
 
 from api.v1.views import app_views

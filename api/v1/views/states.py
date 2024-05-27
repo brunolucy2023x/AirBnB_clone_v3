@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
 Handles all RESTful API actions for `State` objects
+brunookoth44@gmail.com @copyright 2024
 """
 from api.v1.views import app_views
 from flask import jsonify, abort, request

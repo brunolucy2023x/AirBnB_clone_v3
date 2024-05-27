@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" module for city object view"""
+""" module for city object view
+brunookoth44@gmail.com @copyright2024
+"""
 from api.v1.views import app_views
 from flask import Flask, jsonify, abort, request
 from models import storage

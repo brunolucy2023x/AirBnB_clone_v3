@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Initialize flask functions"""
+"""Initialize flask functions
+brunookoth44@copyright2024
+"""
 from flask import jsonify, make_response
 from api.v1.views import app_views
 from models import storage
