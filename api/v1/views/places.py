@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Flask routes for `Place` object related URI subpaths using the
 `app_views` Blueprint.
+brunokoth44@gmail.com @copyright 2024
 """
 from api.v1.views import app_views
 from flask import Flask, jsonify, abort, request
